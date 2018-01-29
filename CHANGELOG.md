@@ -1,3 +1,11 @@
+<a name="0.1.1"></a>
+## [0.1.1](https://github.com/dxcli/example-plugin-js/compare/54adfc3b05a89922ae399c5a077261555100f98b...v0.1.1) (2018-01-29)
+
+
+### Bug Fixes
+
+* create-dxcli v0.28.1 ([a319487](https://github.com/dxcli/example-plugin-js/commit/a319487))
+
 <a name="0.1.0"></a>
 # [0.1.0](https://github.com/dxcli/example-plugin-js/compare/32c7dfcaeb45cf52817dceecab7d0c909eea8936...v0.1.0) (2018-01-28)
 
