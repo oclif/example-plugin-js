@@ -40,7 +40,7 @@ jobs:
 
 workflows:
   version: 2
-  "@dxcli/example-plugin-js":
+  "@anycli/example-plugin-js":
     jobs:
       - node-latest
       - node-8
