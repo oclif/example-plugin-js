@@ -1,3 +1,11 @@
+<a name="0.2.0"></a>
+# [0.2.0](https://github.com/anycli/example-plugin-js/compare/v0.1.11...v0.2.0) (2018-01-31)
+
+
+### Features
+
+* anycli v1.0.0 ([3dbac59](https://github.com/anycli/example-plugin-js/commit/3dbac59))
+
 <a name="0.1.11"></a>
 ## [0.1.11](https://github.com/dxcli/example-plugin-js/compare/093ad30e35a1f91c8a6c7bc7883dae6351593058...v0.1.11) (2018-01-30)
 
