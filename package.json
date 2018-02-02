@@ -29,6 +29,7 @@
     "node": ">=8.0.0"
   },
   "files": [
+    ".anycli.manifest.json",
     "/src"
   ],
   "homepage": "https://github.com/anycli/example-plugin-js",
