@@ -16,9 +16,9 @@
   },
   "devDependencies": {
     "@anycli/config": "^0.3.0",
-    "@anycli/dev-cli": "^0.1.1",
-    "@anycli/engine": "^0.3.0",
-    "@anycli/plugin-help": "^0.4.1",
+    "@anycli/dev-cli": "^0.1.3",
+    "@anycli/engine": "^0.3.1",
+    "@anycli/plugin-help": "^0.4.6",
     "@anycli/test": "^0.10.3",
     "chai": "^4.1.2",
     "eslint": "^4.16.0",
@@ -40,8 +40,9 @@
   "repository": "anycli/example-plugin-js",
   "scripts": {
     "lint": "eslint .",
+    "postpublish": "rm .anycli.manifest.json",
     "posttest": "yarn run lint",
-    "prepublishOnly": "anycli-dev manifest > .anycli.manifest.json",
+    "prepublishOnly": "anycli-dev manifest -o .anycli.manifest.json",
     "test": "mocha --forbid-only \"test/**/*.test.js\""
   }
 }
