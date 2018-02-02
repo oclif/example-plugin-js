@@ -1,3 +1,21 @@
+<a name="0.8.0"></a>
+# [0.8.0](https://github.com/anycli/example-plugin-js/compare/775026c4c4102e854a82646f9ce198de8f6f0b4f...v0.8.0) (2018-02-02)
+
+
+### Bug Fixes
+
+* anycli v0.32.1 ([9d20248](https://github.com/anycli/example-plugin-js/commit/9d20248))
+* anycli v0.32.2 ([69dbeef](https://github.com/anycli/example-plugin-js/commit/69dbeef))
+* anycli v0.32.3 ([69c6d57](https://github.com/anycli/example-plugin-js/commit/69c6d57))
+* anycli v0.32.4 ([ab58be3](https://github.com/anycli/example-plugin-js/commit/ab58be3))
+* anycli v0.32.5 ([c831285](https://github.com/anycli/example-plugin-js/commit/c831285))
+* anycli v0.32.6 ([583094e](https://github.com/anycli/example-plugin-js/commit/583094e))
+
+
+### Features
+
+* anycli v0.32.0 ([aac5e93](https://github.com/anycli/example-plugin-js/commit/aac5e93))
+
 <a name="0.7.1"></a>
 ## [0.7.1](https://github.com/anycli/example-plugin-js/compare/70cdec14c67c8a8d6f1eac5781a6bcccf788d6ff...v0.7.1) (2018-02-01)
 
