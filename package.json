@@ -1,7 +1,7 @@
 {
   "name": "@anycli/example-plugin-js",
   "description": "example dxcli plugin in javascript",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "author": "Jeff Dickey @jdxcode",
   "anycli": {
     "commands": "./src/commands",
