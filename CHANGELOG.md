@@ -1,3 +1,11 @@
+<a name="0.9.8"></a>
+## [0.9.8](https://github.com/anycli/example-plugin-js/compare/d90ce7001566d1144c6ce23bac8a2697cbdb2239...v0.9.8) (2018-02-06)
+
+
+### Bug Fixes
+
+* anycli v0.33.10 ([b651451](https://github.com/anycli/example-plugin-js/commit/b651451))
+
 <a name="0.9.7"></a>
 ## [0.9.7](https://github.com/anycli/example-plugin-js/compare/f075d423958451b83ae154b191c94c1a58a6b173...v0.9.7) (2018-02-05)
 
