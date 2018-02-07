@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "@anycli/dev-cli": "^0.3.4",
-    "@anycli/plugin-help": "^0.6.9",
+    "@anycli/plugin-help": "^0.7.0",
     "@anycli/test": "^0.10.13",
     "chai": "^4.1.2",
     "eslint": "^4.17.0",
