@@ -11,3 +11,7 @@ example dxcli plugin in javascript
 [![Known Vulnerabilities](https://snyk.io/test/npm/@oclif/example-plugin-js/badge.svg)](https://snyk.io/test/npm/@oclif/example-plugin-js)
 [![Downloads/week](https://img.shields.io/npm/dw/@oclif/example-plugin-js.svg)](https://npmjs.org/package/@oclif/example-plugin-js)
 [![License](https://img.shields.io/npm/l/@oclif/example-plugin-js.svg)](https://github.com/oclif/example-plugin-js/blob/master/package.json)
+
+<!-- install -->
+<!-- usage -->
+<!-- commands -->
