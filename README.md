@@ -12,8 +12,13 @@ example dxcli plugin in javascript
 [![Downloads/week](https://img.shields.io/npm/dw/@oclif/example-plugin-js.svg)](https://npmjs.org/package/@oclif/example-plugin-js)
 [![License](https://img.shields.io/npm/l/@oclif/example-plugin-js.svg)](https://github.com/oclif/example-plugin-js/blob/master/package.json)
 
+<!-- toc -->
+* [Install](#Install)
+* [Usage](#Usage)
+* [Commands](#Commands)
+<!-- tocstop -->
 <!-- install -->
-# Installing @oclif/example-plugin-js
+# Install
 
 with yarn:
 ```
@@ -29,29 +34,29 @@ $ npm install -g @oclif/example-plugin-js
 # Usage
 
 ```sh-session
-$ @oclif/example-plugin-js COMMAND
+$ oclif-example COMMAND
 running command...
-$ @oclif/example-plugin-js (-v|--version|version)
-@oclif/example-plugin-js/1.1.1 (linux-x64) node-v9.5.0
-$ @oclif/example-plugin-js --help [COMMAND]
+$ oclif-example (-v|--version|version)
+@oclif/example-plugin-js/1.1.2 (linux-x64) node-v9.5.0
+$ oclif-example --help [COMMAND]
 USAGE
-  $ @oclif/example-plugin-js COMMAND [OPTIONS]
+  $ oclif-example COMMAND [OPTIONS]
 ...
 ```
 <!-- usagestop -->
 <!-- commands -->
 # Commands
 
-* [@oclif/example-plugin-js hello [OPTIONS]](#hello)
+* [oclif-example hello [OPTIONS]](#hello)
 ## hello [OPTIONS]
 
 ```
 USAGE
-  $ @oclif/example-plugin-js hello [OPTIONS]
+  $ oclif-example hello [OPTIONS]
 
 OPTIONS
   -n, --name=name  name to print
 ```
 
-_See code: [@oclif/example-plugin-js](https://github.com/oclif/example-plugin-js/blob/v1.1.1/src/commands/hello.js)_
+_See code: [@oclif/example-plugin-js](https://github.com/oclif/example-plugin-js/blob/v1.1.2/src/commands/hello.js)_
 <!-- commandsstop -->
