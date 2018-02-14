@@ -32,7 +32,7 @@ $ npm install -g @oclif/example-plugin-js
 $ @oclif/example-plugin-js COMMAND
 running command...
 $ @oclif/example-plugin-js (-v|--version|version)
-@oclif/example-plugin-js/1.1.0 (linux-x64) node-v9.5.0
+@oclif/example-plugin-js/1.1.1 (linux-x64) node-v9.5.0
 $ @oclif/example-plugin-js --help [COMMAND]
 USAGE
   $ @oclif/example-plugin-js COMMAND [OPTIONS]
@@ -53,5 +53,5 @@ OPTIONS
   -n, --name=name  name to print
 ```
 
-_See code: [@oclif/example-plugin-js](https://github.com/oclif/example-plugin-js/blob/v1.1.0/src/commands/hello.js)_
+_See code: [@oclif/example-plugin-js](https://github.com/oclif/example-plugin-js/blob/v1.1.1/src/commands/hello.js)_
 <!-- commandsstop -->
