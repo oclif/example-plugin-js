@@ -13,5 +13,45 @@ example dxcli plugin in javascript
 [![License](https://img.shields.io/npm/l/@oclif/example-plugin-js.svg)](https://github.com/oclif/example-plugin-js/blob/master/package.json)
 
 <!-- install -->
+# Installing @oclif/example-plugin-js
+
+with yarn:
+```
+$ yarn global add @oclif/example-plugin-js
+```
+
+or with npm:
+```
+$ npm install -g @oclif/example-plugin-js
+```
+<!-- installstop -->
 <!-- usage -->
+# Usage
+
+```sh-session
+$ @oclif/example-plugin-js COMMAND
+running command...
+$ @oclif/example-plugin-js (-v|--version|version)
+@oclif/example-plugin-js/1.1.0 (linux-x64) node-v9.5.0
+$ @oclif/example-plugin-js --help [COMMAND]
+USAGE
+  $ @oclif/example-plugin-js COMMAND [OPTIONS]
+...
+```
+<!-- usagestop -->
 <!-- commands -->
+# Commands
+
+* [@oclif/example-plugin-js hello [OPTIONS]](#hello)
+## hello [OPTIONS]
+
+```
+USAGE
+  $ @oclif/example-plugin-js hello [OPTIONS]
+
+OPTIONS
+  -n, --name=name  name to print
+```
+
+_See code: [@oclif/example-plugin-js](https://github.com/oclif/example-plugin-js/blob/v1.1.0/src/commands/hello.js)_
+<!-- commandsstop -->
