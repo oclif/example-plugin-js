@@ -5,9 +5,9 @@
   "author": "Jeff Dickey @jdxcode",
   "bugs": "https://github.com/oclif/example-plugin-js/issues",
   "dependencies": {
-    "@oclif/command": "^1.2.23",
+    "@oclif/command": "^1.2.25",
     "@oclif/config": "^1.3.52",
-    "@oclif/errors": "^1.0.1"
+    "@oclif/errors": "^1.0.2"
   },
   "devDependencies": {
     "@oclif/dev-cli": "^1.2.4",
@@ -15,7 +15,7 @@
     "@oclif/test": "^1.0.1",
     "chai": "^4.1.2",
     "eslint": "^4.17.0",
-    "eslint-config-oclif": "^1.3.7",
+    "eslint-config-oclif": "^1.3.8",
     "globby": "^8.0.0",
     "mocha": "^5.0.1"
   },
