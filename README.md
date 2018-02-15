@@ -37,7 +37,7 @@ $ npm install -g @oclif/example-plugin-js
 $ oclif-example COMMAND
 running command...
 $ oclif-example (-v|--version|version)
-@oclif/example-plugin-js/1.2.9 (linux-x64) node-v9.5.0
+@oclif/example-plugin-js/1.2.10 (linux-x64) node-v9.5.0
 $ oclif-example --help [COMMAND]
 USAGE
   $ oclif-example COMMAND
@@ -65,5 +65,5 @@ DESCRIPTION
   Extra documentation goes here
 ```
 
-_See code: [src/commands/hello.js](https://github.com/oclif/example-plugin-js/blob/v1.2.9/src/commands/hello.js)_
+_See code: [src/commands/hello.js](https://github.com/oclif/example-plugin-js/blob/v1.2.10/src/commands/hello.js)_
 <!-- commandsstop -->
