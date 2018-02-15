@@ -1,3 +1,11 @@
+<a name="1.2.11"></a>
+## [1.2.11](https://github.com/oclif/example-plugin-js/compare/d1b5e715345a3f8d55b0b18602c4f17da6c076bf...v1.2.11) (2018-02-15)
+
+
+### Bug Fixes
+
+* oclif v1.2.11 ([9902720](https://github.com/oclif/example-plugin-js/commit/9902720))
+
 <a name="1.2.10"></a>
 ## [1.2.10](https://github.com/oclif/example-plugin-js/compare/e82edaf45b7facda7b5811b350b40e6ec7500266...v1.2.10) (2018-02-15)
 
