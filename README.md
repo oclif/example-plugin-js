@@ -65,5 +65,5 @@ DESCRIPTION
   Extra documentation goes here
 ```
 
-_See code: [src/commands/hello.js](https://github.com/oclif/example-plugin-js/blob/v1.3.8/src/commands/hello.js)_
+_See code: [src/commands/hello.js](https://github.com/oclif/example-plugin-js/blob/v1.3.9/src/commands/hello.js)_
 <!-- commandsstop -->
