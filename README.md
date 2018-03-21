@@ -5,7 +5,7 @@ example dxcli plugin in javascript
 
 [![Version](https://img.shields.io/npm/v/@oclif/example-plugin-js.svg)](https://npmjs.org/package/@oclif/example-plugin-js)
 [![CircleCI](https://circleci.com/gh/oclif/example-plugin-js/tree/master.svg?style=shield)](https://circleci.com/gh/oclif/example-plugin-js/tree/master)
-[![Appveyor CI](https://ci.appveyor.com/api/projects/status/github/oclif/example-plugin-js?branch=master&svg=true)](https://ci.appveyor.com/project/heroku/example-plugin-js/branch/master)
+[![Appveyor CI](https://ci.appveyor.com/api/projects/status/github/oclif/example-plugin-js?branch=master&svg=true)](https://ci.appveyor.com/project/oclif/example-plugin-js/branch/master)
 [![Codecov](https://codecov.io/gh/oclif/example-plugin-js/branch/master/graph/badge.svg)](https://codecov.io/gh/oclif/example-plugin-js)
 [![Greenkeeper](https://badges.greenkeeper.io/oclif/example-plugin-js.svg)](https://greenkeeper.io/)
 [![Known Vulnerabilities](https://snyk.io/test/github/oclif/example-plugin-js/badge.svg)](https://snyk.io/test/github/oclif/example-plugin-js)
@@ -37,7 +37,7 @@ $ npm install -g @oclif/example-plugin-js
 $ oclif-example COMMAND
 running command...
 $ oclif-example (-v|--version|version)
-@oclif/example-plugin-js/1.3.10 (linux-x64) node-v9.8.0
+@oclif/example-plugin-js/1.3.11 (linux-x64) node-v9.8.0
 $ oclif-example --help [COMMAND]
 USAGE
   $ oclif-example COMMAND
