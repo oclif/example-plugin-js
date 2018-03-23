@@ -33,7 +33,7 @@ USAGE
 # Commands
 <!-- commands -->
 * [oclif-example hello](#hello)
-## hello
+## oclif-example hello
 
 Describe the command here
 
