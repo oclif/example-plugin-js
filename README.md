@@ -32,7 +32,8 @@ USAGE
 <!-- usagestop -->
 # Commands
 <!-- commands -->
-* [oclif-example hello](#hello)
+* [oclif-example hello](#oclif-example-hello)
+
 ## oclif-example hello
 
 Describe the command here
