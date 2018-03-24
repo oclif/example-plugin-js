@@ -1,7 +1,7 @@
 {
   "name": "@oclif/example-plugin-js",
   "description": "example dxcli plugin in javascript",
-  "version": "1.5.7",
+  "version": "1.5.8",
   "author": "Jeff Dickey @jdxcode",
   "bugs": "https://github.com/oclif/example-plugin-js/issues",
   "dependencies": {
