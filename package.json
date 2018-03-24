@@ -6,7 +6,9 @@
   "bugs": "https://github.com/oclif/example-plugin-js/issues",
   "dependencies": {
     "@oclif/command": "^1.4.3",
-    "@oclif/config": "^1.3.59",
+    "@oclif/config": "^1.3.59"
+  },
+  "devDependencies": {
     "@oclif/dev-cli": "^1.4.2",
     "@oclif/plugin-help": "^1.1.7",
     "@oclif/test": "^1.0.1",
@@ -16,7 +18,6 @@
     "globby": "^8.0.1",
     "mocha": "^5.0.5"
   },
-  "devDependencies": {},
   "engines": {
     "node": ">=8.0.0"
   },
