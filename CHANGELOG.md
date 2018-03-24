@@ -1,3 +1,11 @@
+<a name="1.7.0"></a>
+# [1.7.0](https://github.com/oclif/example-plugin-js/compare/f29b3de465142f1104cbafd3182247ce71df90fc...v1.7.0) (2018-03-24)
+
+
+### Features
+
+* oclif v1.7.0 ([fb773f7](https://github.com/oclif/example-plugin-js/commit/fb773f7)), closes [oclif/oclif#69](https://github.com/oclif/oclif/issues/69)
+
 <a name="1.6.0"></a>
 # [1.6.0](https://github.com/oclif/example-plugin-js/compare/3beea12be55dff2b1d3711c582abb66456e8ba56...v1.6.0) (2018-03-24)
 
