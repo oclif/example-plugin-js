@@ -5,11 +5,11 @@
   "author": "Jeff Dickey @jdxcode",
   "bugs": "https://github.com/oclif/example-plugin-js/issues",
   "dependencies": {
-    "@oclif/command": "^1.4.8",
-    "@oclif/config": "^1.4.0"
+    "@oclif/command": "^1.4.9",
+    "@oclif/config": "^1.4.3"
   },
   "devDependencies": {
-    "@oclif/dev-cli": "^1.8.0",
+    "@oclif/dev-cli": "^1.9.0",
     "@oclif/plugin-help": "^1.2.3",
     "@oclif/test": "^1.0.4",
     "chai": "^4.1.2",
@@ -39,11 +39,9 @@
   },
   "repository": "oclif/example-plugin-js",
   "scripts": {
-    "clean": "rm -f .oclif.manifest.json",
-    "postpublish": "yarn run clean",
+    "postpack": "rm -f .oclif.manifest.json",
     "posttest": "eslint .",
-    "prepublishOnly": "oclif-dev manifest && oclif-dev readme",
-    "preversion": "yarn run clean",
+    "prepack": "oclif-dev manifest",
     "test": "mocha --forbid-only \"test/**/*.test.js\"",
     "version": "oclif-dev readme && git add README.md"
   }
