@@ -1,3 +1,11 @@
+<a name="1.7.25"></a>
+## [1.7.25](https://github.com/oclif/example-plugin-js/compare/v1.7.24...v1.7.25) (2018-04-09)
+
+
+### Bug Fixes
+
+* oclif v1.7.27 ([af3dbdd](https://github.com/oclif/example-plugin-js/commit/af3dbdd))
+
 <a name="1.7.24"></a>
 ## [1.7.24](https://github.com/oclif/example-plugin-js/compare/v1.7.23...v1.7.24) (2018-04-09)
 
