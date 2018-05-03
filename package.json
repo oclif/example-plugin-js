@@ -23,7 +23,7 @@
     "node": ">=8.0.0"
   },
   "files": [
-    "/.oclif.manifest.json",
+    "/oclif.manifest.json",
     "/src"
   ],
   "homepage": "https://github.com/oclif/example-plugin-js",
@@ -40,7 +40,7 @@
   },
   "repository": "oclif/example-plugin-js",
   "scripts": {
-    "postpack": "rm -f .oclif.manifest.json",
+    "postpack": "rm -f oclif.manifest.json",
     "posttest": "eslint .",
     "prepack": "oclif-dev manifest && oclif-dev readme",
     "test": "nyc mocha --forbid-only \"test/**/*.test.js\"",
