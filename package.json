@@ -24,7 +24,8 @@
   },
   "files": [
     "/oclif.manifest.json",
-    "/src"
+    "/src",
+    "/yarn.lock"
   ],
   "homepage": "https://github.com/oclif/example-plugin-js",
   "keywords": [
