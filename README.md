@@ -44,7 +44,6 @@ OPTIONS
   -n, --name=name  name to print
 
 DESCRIPTION
-  Describe the command here
   ...
   Extra documentation goes here
 ```
