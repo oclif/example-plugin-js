@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "@oclif/dev-cli": "^1",
-    "@oclif/plugin-help": "^1",
+    "@oclif/plugin-help": "^2",
     "@oclif/test": "^1",
     "chai": "^4",
     "eslint": "^4",
