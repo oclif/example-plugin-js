@@ -3,6 +3,7 @@
 
 example dxcli plugin in javascript
 
+[![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/@oclif/example-plugin-js.svg)](https://npmjs.org/package/@oclif/example-plugin-js)
 [![CircleCI](https://circleci.com/gh/oclif/example-plugin-js/tree/master.svg?style=shield)](https://circleci.com/gh/oclif/example-plugin-js/tree/master)
 [![Appveyor CI](https://ci.appveyor.com/api/projects/status/github/oclif/example-plugin-js?branch=master&svg=true)](https://ci.appveyor.com/project/oclif/example-plugin-js/branch/master)
