@@ -23,6 +23,7 @@
     "node": ">=8.0.0"
   },
   "files": [
+    "/npm-shrinkwrap.json",
     "/oclif.manifest.json",
     "/src",
     "/yarn.lock"
@@ -43,7 +44,7 @@
   "scripts": {
     "postpack": "rm -f oclif.manifest.json",
     "posttest": "eslint .",
-    "prepack": "oclif-dev manifest && oclif-dev readme",
+    "prepack": "rm -rf lib && tsc && oclif-dev manifest && oclif-dev readme && npm shrinkwrap",
     "test": "nyc mocha --forbid-only \"test/**/*.test.js\"",
     "version": "oclif-dev readme && git add README.md"
   }
