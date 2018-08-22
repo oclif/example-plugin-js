@@ -1,3 +1,10 @@
+## [1.10.3](https://github.com/oclif/example-plugin-js/compare/v1.10.2...v1.10.3) (2018-08-22)
+
+
+### Bug Fixes
+
+* oclif v1.11.3 ([5afa40f](https://github.com/oclif/example-plugin-js/commit/5afa40f)), closes [#152](https://github.com/oclif/example-plugin-js/issues/152)
+
 ## [1.10.2](https://github.com/oclif/example-plugin-js/compare/v1.10.1...v1.10.2) (2018-08-17)
 
 
